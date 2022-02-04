@@ -1,5 +1,5 @@
 # NLP-twitter-sentiment-analysis
-Analyze the sentiment of the tweets of the Sentiment140 dataset by developing a machine learning pipeline involving the use of 2 classifiers (Logistic Regression, Bernoulli Naive Bayes)along with using Term Frequency- Inverse Document Frequency (TF-IDF).
+Analyze the sentiment of the tweets of the Sentiment140 dataset by developing a machine learning pipeline involving the use of 2 classifiers (SVM, Bernoulli Naive Bayes)along with using Term Frequency- Inverse Document Frequency (TF-IDF).
 
 Evaluvated the classifier using a confusion matrix and roc-auc curve.
 
